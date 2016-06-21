@@ -1,0 +1,14 @@
+{
+	"name": "puremvc-pipes",
+  	"license": "BSD",
+	"tags": ["framework", "puremvc", "mvc","cross","cross-platform","flash","html5","ios","message","signal"],
+	"description": "This utility provides the capability for creating pipelines that pass messages between Cores in a PureMVC Haxe MultiCore-based application. Pipelines can contain filters, queues, splitting and merging tees, and more.",
+	"contributors": ["ConfidantCommunications"],
+	"classPath":"src/",
+	"releasenote": "Initial release on Haxelib. ",
+	"version": "1.3.0",
+	"url": "https://github.com/PureMVC/puremvc-haxe-util-pipes",
+	"dependencies": {
+    	"puremvc-multicore": ""
+	}
+}
